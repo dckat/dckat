@@ -2,10 +2,15 @@
 ---
 ## Phone Number
 ---
-## 🔭 Career
+## Career
 ---
-## 🌱 Education
+## Education
 ---
-## 👯 Project
+## Project
 ---
-## 📫 Study
+## Study
+---
+## Awards
+---
+## Certification
+---
