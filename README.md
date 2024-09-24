@@ -8,9 +8,6 @@
 ---
 ## Phone Number
 ---
-## Tech Stack
-  ### Programming lang
----
 ## Career
 ---
 ## Education
