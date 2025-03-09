@@ -6,17 +6,26 @@
 ---
 ## Email
 ---
-## Phone Number
----
 ## Career
+ - 2022.02 ~ 2022.05 네이버 Maps
 ---
 ## Education
+ - 2012.03 ~ 2015.02 Gwangyang Baekwoon High School
+ - 2015.03 ~ 2022.02 Kyung Hee UniverSity (Computer Engineering)
+ - 2024.09 ~ 2025.03 SSG I&C BootCamp (Java Back-end)
 ---
 ## Project
+ - [드론 관제 시스템](https://github.com/dckat/capstone-design1)
+ - [E-WMS](https://github.com/DHKim96/SSGINC_E-WMS)
+ - [Showping](https://github.com/SSGINCFinal/show-ping)
 ---
 ## Study
 ---
 ## Awards
+ - 2019.10 가을 프로그래밍 경시대회 최우수상 (ACM-ICPC 국내대회 본선 참가)
+ - 2021.05 봄 프로그래밍 경시대회 장려상 (경기 남부 6개대학 프로그래밍 대회 참가)
 ---
 ## Certification
+ - 2020.08 정보처리기사
+ - 2020.10 리눅스마스터 (2급)
 ---
