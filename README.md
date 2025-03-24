@@ -20,6 +20,7 @@
  - [드론 관제 시스템](https://github.com/dckat/capstone-design1)
  - [E-WMS](https://github.com/DHKim96/SSGINC_E-WMS)
  - [Showping](https://github.com/SSGINCFinal/show-ping)
+ - [ShowpingLive](https://github.com/SSGINCFinal/show-ping-live)
 ---
 ## Study
  - [Spring-in-Action](https://github.com/dckat/spring-in-action)
