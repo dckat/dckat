@@ -9,7 +9,6 @@
 ---
 ## Career
  - 2026.05 ~ Fingoo (Backend Developer)
- - 2024.09 ~ 2025.03 신세계 아이앤씨 BootCamp (Java Back-end)
  - 2022.02 ~ 2022.05 네이버 Maps (Backend Developer)
 ---
 ## Education
