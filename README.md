@@ -5,7 +5,7 @@
 ---
 ## Email
  - Naver: kdc9619@naver.com
- - Google: kdc9619@khu.ac.kr
+ - Google: dckat0119@gmail.com
 ---
 ## Career
  - 2026.05 ~ Fingoo (Backend Developer)
