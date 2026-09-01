@@ -1,15 +1,16 @@
-![image](https://github.com/user-attachments/assets/882b2153-4ef4-48b0-9b4b-8fe36654b913)
 # 백엔드 마스터를 꿈꾸는 김대철(미어캣)
 ---
-## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dckat&layout=compact)](https://github.com/dckat/github-readme-stats)
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,git,github,figma,notion)](https://skillicons.dev)
 ---
 ## Email
  - Naver: kdc9619@naver.com
  - Google: kdc9619@khu.ac.kr
 ---
 ## Career
- - 2022.02 ~ 2022.05 네이버 Maps
+ - 2026.05 ~ Fingoo (Backend Developer)
+ - 2024.09 ~ 2025.03 신세계 아이앤씨 BootCamp (Java Back-end)
+ - 2022.02 ~ 2022.05 네이버 Maps (Backend Developer)
 ---
 ## Education
  - 2012.03 ~ 2015.02 Gwangyang Baekwoon High School
@@ -21,6 +22,8 @@
  - [E-WMS](https://github.com/DHKim96/SSGINC_E-WMS)
  - [Showping](https://github.com/SSGINCFinal/show-ping)
  - [ShowpingLive](https://github.com/SSGINCFinal/show-ping-live)
+ - [지도 기반 카페추천 서비스 (CafeRecommend)](https://github.com/dckat/cafe-recommend)
+ - [경희대학교 내 버스 정차 횟수 분석](https://github.com/dckat/bus-data-analyze)
 ---
 ## Study
  - [Spring-in-Action](https://github.com/dckat/spring-in-action)
